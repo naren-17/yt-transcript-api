@@ -1,3 +1,4 @@
+// api/transcript.js
 import { getTranscript } from 'youtube-transcript';
 
 export default async function handler(req, res) {
